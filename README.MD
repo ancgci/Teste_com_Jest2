@@ -13,8 +13,10 @@ Atividade prática de teste unitário com o framework Jest de cunho didático em
 
 ## Imagens
 
-![Função Testada]()
-![Script de Teste]()
-![Node]()
-![Resultado]()
+![Unidade](https://github.com/ancgci/Teste_com_Jest2/blob/main/imagens/unidade.PNG)
+![Script de Teste](https://github.com/ancgci/Teste_com_Jest2/blob/main/imagens/teste.PNG)
+![Divide](https://github.com/ancgci/Teste_com_Jest2/blob/main/imagens/divide.PNG)
+![Subtract](https://github.com/ancgci/Teste_com_Jest2/blob/main/imagens/subtract.PNG)
+![sum](https://github.com/ancgci/Teste_com_Jest2/blob/main/imagens/sum.PNG)
+![multiply]https://github.com/ancgci/Teste_com_Jest2/blob/main/imagens/multiply.PNG()
 
