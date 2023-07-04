@@ -1,19 +1,19 @@
 const calculator = {
-    sum(ultma, school) {
-        return ultma + school;
+    sum(ultima, school) {
+        return ultima + school;
     },
  
    
-    subtract(ultma, school) {
-        return ultma - school;
+    subtract(ultima, school) {
+        return ultima - school;
     },
     
-    divide(ultma, school){
-        return ultma / school;
+    divide(ultima, school){
+        return ultima / school;
     },
     
-    multiply(ultma, school) {
-        return ultma * school;
+    multiply(ultima, school) {
+        return ultima * school;
     },
 }
 
